@@ -1,0 +1,29 @@
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\PROJECT_KE1.exe
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\PROJECT_KE1.pdb
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\obj\Debug\PROJECT_KE1.csprojAssemblyReference.cache
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\obj\Debug\PROJECT_KE1.csproj.CoreCompileInputs.cache
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\obj\Debug\PROJECT_KE1.exe
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\obj\Debug\PROJECT_KE1.pdb
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Database1.accdb
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\5 Menit Akhir Istirahat I.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\5 Menit Akhir Istirahat II.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\5 Menit Awal Upacara.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Akhir Pekan 1.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Akhir Pekan 2.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Akhir Pelajaran A.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Akhir Pelajaran B.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\awal jam ke 1.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Istirahat I.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Istirahat II.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Pelajaran ke 1.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Pelajaran ke 2.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Pelajaran ke 3.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Pelajaran ke 4.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Pelajaran ke 5.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Pelajaran ke 6.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Pelajaran ke 7.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Pelajaran ke 8.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\Pelajaran ke 9.wav
+D:\AMIRRUDIN IK 2 (086)\PROJECT_KE1\PROJECT_KE1\bin\Debug\Moduleku\Suara\pembuka.wav
